@@ -16,8 +16,6 @@ interactive elements.
 
 ## Installation
 
-### Development extension
-
 1. Download or clone this repository.
 2. Open the command palette in Zed and run `zed: install dev extension`.
 3. Select the repository root (the directory containing `extension.toml`).
