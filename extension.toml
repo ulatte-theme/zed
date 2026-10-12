@@ -1,0 +1,7 @@
+id = "ulatte"
+name = "uLatte"
+version = "0.1.0"
+schema_version = 1
+authors = ["seizure16"]
+description = "A personal take on Catppuccin Latte for Zed, with a unified background for a seamless interface."
+repository = "https://github.com/seizure16/ulatte"
