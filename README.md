@@ -10,10 +10,9 @@ giving the workspace a consistent look, with color reserved for code and
 interactive elements.
 
 
-
-<!-- Add a screenshot of the theme in Zed at assets/preview.png, then uncomment:
-![uLatte theme in Zed](assets/preview.png)
--->
+| Light | Dark |
+|--------|---------------|
+| ![uLatte Light](assets/ulatte-light.png) | ![uLatte Dark](assets/ulatte-dark.png) |
 
 ## Installation
 
